@@ -1,0 +1,18 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "scenes": [
+    {"id": "abertura", "dur": 150},
+    {"id": "crenca", "dur": 210},
+    {"id": "origem", "dur": 240},
+    {"id": "proposito", "dur": 180},
+    {"id": "processo", "dur": 240},
+    {"id": "valores", "dur": 210},
+    {"id": "portfolio", "dur": 270},
+    {"id": "momentos", "dur": 180},
+    {"id": "missao", "dur": 225},
+    {"id": "assinatura", "dur": 225}
+  ],
+  "transitions": [30, 30, 30, 30, 30, 30, 30, 30, 30]
+}
